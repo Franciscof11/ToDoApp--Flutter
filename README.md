@@ -59,7 +59,7 @@
 ---
 
    This project was developed by **[@Francisco Gabriel](https://www.linkedin.com/in/franciscossg/)**, 
-   if it helped you, give ⭐, it will help me too 😉 .
+   if it helped you, give ⭐, it will help me too 😉.
     
 ---
 
