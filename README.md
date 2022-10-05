@@ -44,10 +44,10 @@
 
    ```   
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/ToDo ToDo
+   $ git clone https://github.com/Franciscof11/ToDoApp--Flutter ToDoApp
 
    - Enter in directory:
-   $ cd ToDo
+   $ cd ToDoApp
 
    - For install dependencies:
    $ flutter packages get
@@ -58,17 +58,14 @@
 
 ---
 
-   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[Daniel Ciolfi](https://linkedin.com/in/danielciolfi)**, in the course  **["Creating Android and iOS Apps with Flutter - Create 16 Apps"](https://www.udemy.com/course/curso-completo-flutter-app-android-ios)** on **[Udemy](https://www.udemy.com/)**.<br>
-   If it helped you, give ⭐, contribute, it will help me too 😉
-
+   This project was developed by **[@Francisco Gabriel](https://www.linkedin.com/in/franciscossg/)**, 
+   if it helped you, give ⭐, it will help me too 😉 .
+    
 ---
 
    <div>
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Francisco%20Gabriel-292929?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/franciscossg/)](https://www.linkedin.com/in/franciscossg/)
 
    </div>
 
-
-
-A basic to-do app built with Flutter. This app has add/delete/update functinality with search for any existing to-do item in the app.
