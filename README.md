@@ -26,8 +26,8 @@
    <h2>Preview 📱</h2><br>
 
    <p a>
-   <img src="https://i.imgur.com/h5qmPPI.gif" width="400" height="800">
-   <img src="https://i.imgur.com/wstambY.jpg" width="400" height="800">
+   <img src="https://i.imgur.com/h5qmPPI.gif" width="400" height="800" alt="App Preview"> 
+   <img src="https://i.imgur.com/wstambY.jpg" width="400" height="800" alt="App Preview">
    </p>
 
 ---
