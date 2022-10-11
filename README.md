@@ -5,20 +5,20 @@
 
    <h2>Topics 📋</h2>
 
-   <p>
+  <p>
    
    - [About 📖](#about-)
    - [Preview 📱](#preview-)
-   - [Learnings and Technologies used 🤯](#---learnings-and-technologies-used----)
+   - [Learnings 🤯](#---learnings----)
+   - [Technologies Used 👨🏽‍💻](#---technologies-used----)
    - [How to Use 🤔](#how-to-use-)
    </p>
 
    <h2>About 📖</h2>
    
    <p>   
-      A simple ToDo app made with Flutter 💙.<br>
+      A simple ToDo app made with Flutter.<br>
       With this app you can make your ToDos and organize them. You can add them, delete them, and view them so that you see the ones that are pending first, and below the completed ones. It is a simple application, but it can be very useful when it comes to your organization. 😃
-      This application is in version 1.1.
    </p>
 
 ---
@@ -33,11 +33,20 @@
 ---
 
  <h2>
-   Learnings and Technologies used 🤯
+   Learnings 🤯
    </h2>
 
    This application was very simple and so was the development, but it also, due to the layout, forced me to consult documentation, articles and forums (StackOverFlow, GitHub Issues and others) several times, which made me learn even more 🤯. Foturnately, I managed to make the application more beautiful, and I intend  to make more updates in future.
 
+---
+
+ <h2>
+   Technologies Used 👨🏽‍💻
+   </h2>
+   
+  * Flutter
+  * Dart
+  
 ---
 
    <h2>How to Use 🤔</h2>
@@ -51,6 +60,8 @@
 
    - For install dependencies:
    $ flutter packages get
+   
+   - Connect your emulator or physical device
 
    - Run the app: 
    $ flutter run
