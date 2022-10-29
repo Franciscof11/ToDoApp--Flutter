@@ -1,6 +1,6 @@
 <h2 align="center">To Do App 📋</h2>
 <p align="center">
-    <img src="https://i.imgur.com/aS9PRf0.jpg" width="200" height="220" border-radius="10" alt="MyTask App Banner" />
+    <img src="https://i.imgur.com/8UmOOCV.png" width="280" height="300" alt="App Banner" />
 </p>
 
    <h2>Topics 📋</h2>
